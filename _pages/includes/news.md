@@ -1,9 +1,7 @@
-<!-- # 🔥 News
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
-- *2023.04*: 🔥 We release [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) (⭐️6k+)
-- *2023.04*: 🎉 One paper ([Make-an-Audio](https://text-to-audio.github.io/)) is accepted by ICML 2023
-- *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
-- *2023.01*: Three papers are accepted by ICLR 2023!
-- *2023.01*: I join [Bytedance AI Lab, Speech & Audio Team](https://ailab.bytedance.com/) <img src='./images/tiktok.png' style='width: 6em;'> as a research scientist in Singapore!
-- *2022.12*: 🎉 My [google scholar](https://scholar.google.com/citations?user=4FA6C0AAAAAJ) citations have exceeded 2000!
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK! -->
+# 🔥 News
+- *2023.05*: 🔥 We release [ArtGPT-4](https://huggingface.co/Tyrannosaurus/ArtGPT-4)
+- *2023.04*: 🎉 I was elected as one of the top ten students of Anhui Polytechnic University. Recognized as the most research-strong undergraduate student in the university.
+- *2023.03*: 🎉 Our paper [Hulk](https://arxiv.org/abs/2302.13741) is accepted by IntelliSys 2023.
+- *2023.03*: As first author, my first journal paper [EvoText](https://www.mdpi.com/2076-3417/13/8/4758) was accepted.
+- *2022.12*: In the School of Artificial Intelligence at Anhui Polytechnic University, I set up the Natural Language Processing Lab.
+- *2022.09*: 🎉 As first author, our first academic paper was accepted by IEEE CEI 2022!
