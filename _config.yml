@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhengqing Yuan"
+title                    : "Zhengqing Yuan \n (袁政卿)"
 description              : "Undergraduate students of the School of Artificial Intelligence, Anhui Polytechnic University. Focusing on NLP, Deep Learning and MultiModal."
 repository               : "DLYuanGod/zhengqingyuan.github.io"
 google_scholar_stats_use_cdn : true
