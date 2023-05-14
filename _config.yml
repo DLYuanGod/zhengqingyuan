@@ -7,7 +7,6 @@
 
 # Site Settings
 title                    : "Zhengqing Yuan"
-title                    : "(袁政卿)"
 description              : "Undergraduate students of the School of Artificial Intelligence, Anhui Polytechnic University. Focusing on NLP, Deep Learning and MultiModal."
 repository               : "DLYuanGod/zhengqingyuan.github.io"
 google_scholar_stats_use_cdn : true
