@@ -12,5 +12,5 @@
 - Automatic classification for Guzheng and Synthesizer based on Random Forest of Acoustic Parameters, Huiwen Xue, Chenxin Sun, Mingcheng Tang, Chenrui Hu, **Zhengqing Yuan**, Zhongzhe Xiao (JCR Q4 EURASIP Journal on Audio, Speech, and Music Processing **UnderReview**)
 
 
-#📰 Peer Review
+# 📰 Peer Review
 - IEEE Access (JCR Q2) Reviewer
