@@ -9,7 +9,7 @@
 
 ## 📄 Journal Articles
 - [EvoText: Enhancing Natural Language Generation Models via Self-Escalation Learning for Up-to-Date Knowledge and Improved Performance](https://www.mdpi.com/2076-3417/13/8/4758), **Zhengqing Yuan**, Huiwen Xue, Chao Zhang, Yongming Liu (JCR Q2)
-- Automatic classification for Guzheng and Synthesizer based on Random Forest of Acoustic Parameters, Huiwen Xue, Chenxin Sun, Mingcheng Tang, Chenrui Hu, **Zhengqing Yuan**, Zhongzhe Xiao (Accepted by JCR Q4 EURASIP Journal on Audio, Speech, and Music Processing)
+- Effective Acoustic Parameters for Automatic Classification of Performed and Synthesized Guzheng Music, Huiwen Xue, Chenxin Sun, Mingcheng Tang, Chenrui Hu, **Zhengqing Yuan**, Zhongzhe Xiao (Accepted by JCR Q4 EURASIP Journal on Audio, Speech, and Music Processing)
 
 
 # 📰 Peer Review
