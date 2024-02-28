@@ -1,4 +1,4 @@
-**I will be attending the University of Notre Dame in August 2024 and pursuing a PhD under the guidance of Prof. Yanfang Ye.**
+**I will be attending the University of Notre Dame in August 2024 and pursuing a PhD under the guidance of Prof. [Yanfang Ye](http://yes-lab.org/).**
 
 I am currently an undergraduate student at [Anhui Polytechnic University](https://www.ahpu.edu.cn/) and also the leader of the Natural Language Processing Research Group at School of Artificial Intelligence.
 
