@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhengqing Yuan"
-description              : "Undergraduate students of the School of Artificial Intelligence, Anhui Polytechnic University. Focusing on NLP, Deep Learning and MultiModal."
+description              : "PhD students at the University of Notre Dame. Focusing on NLP, Deep Learning and MultiModal."
 repository               : "dlyuangod.github.io/zhengqing/"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ google_analytics_id      : dTu07l8AAAAJ
 author:
   name             : "Zhengqing Yuan \n (袁政卿)"
   avatar           : "images/my.jpg"
-  bio              : "School of Artificial Intelligence, Anhui Polytechnic University"
-  location         : "Wuhu Anhui, China"
+  bio              : "Department of Computer Science and Engineering, University of Notre Dame"
+  location         : "South Bend, Indiana, US"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=dTu07l8AAAAJ"
