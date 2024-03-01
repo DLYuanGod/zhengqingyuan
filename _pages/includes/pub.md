@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-- [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/abs/2402.17177), Yixin Liu*, Kai Zhang*, Yuan Li*, Zhiling Yan*, Chujie Gao*, Ruoxi Chen*, **Zhengqing Yuan***, Yue Huang*, Hanchi Sun*, Jianfeng Gao, Lifang He, Lichao Sun (*Equal contributions)
+- [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/abs/2402.17177), Yixin Liu❁, Kai Zhang❁, Yuan Li❁, Zhiling Yan❁, Chujie Gao❁, Ruoxi Chen❁, **Zhengqing Yuan**❁, Yue Huang*, Hanchi Sun*, Jianfeng Gao, Lifang He, Lichao Sun (❁Equal contributions)
 - [TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones](https://arxiv.org/abs/2312.16862), **Zhengqing Yuan**, Zhaoxu Li, Lichao Sun
 - [ArtGPT-4: Artistic Vision-Language Understanding with Adapter-enhanced MiniGPT-4](https://arxiv.org/abs/2305.07490), **Zhengqing Yuan**, Yunhong He, Kun Wang, Yanfang Ye, Lichao Sun
 - [Hulk: Graph Neural Networks for Optimizing Regionally Distributed Computing Systems](https://arxiv.org/pdf/2302.13741.pdf), **Zhengqing Yuan**, Huiwen Xue, Chao Zhang, Yongming Liu (Accepted by Intelligent Systems Conference (IntelliSys 2023))
