@@ -5,6 +5,7 @@
 
 # 🧢 Membership
 - *2022.12 - 2023.12*, IEEE Student Member
+- *2024.02 - 2025.02*, IEEE Student Member
 
 # 💻 Internships
 - *2023.7 - present*, Lehigh University, US. (Intern online)(Supervisor: [Lichao Sun](https://lichao-sun.github.io/))
