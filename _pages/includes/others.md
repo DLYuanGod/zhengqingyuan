@@ -8,5 +8,5 @@
 - *2024.02 - 2025.02*, IEEE Student Member
 
 # 💻 Internships
-- *2023.7 - present*, Lehigh University, US. (Intern online)(Supervisor: [Lichao Sun](https://lichao-sun.github.io/))
+- *2023.7 - present*, Visiting student at LAIR Lab, Lehigh University, US. (Supervisor: [Lichao Sun](https://lichao-sun.github.io/))
 - *2021.11 - 2022.11*, Intelligent Human-Computer Interaction Joint Laboratory, Wuhu. (Algorithm, Front-end and Back-end Engineers)
