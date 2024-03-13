@@ -1,7 +1,9 @@
-
 # 📖 Educations
 - *2020.09 - 2024.06*, Undergraduate, Shool of Artificial Intelligence, Anhui Polytechnic University Wuhu.
 - *2024.08 - 2029.05*, PhD Candicate, University of Notre Dame.
+
+# 📖 Presentation
+- *2023.08*, AI TIMES (Tsinghua University), ArtGPT-4
 
 # 🧢 Membership
 - *2022.12 - 2023.12*, IEEE Student Member
