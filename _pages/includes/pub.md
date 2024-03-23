@@ -1,5 +1,6 @@
 
 # 📝 Selected Publications 
+- [Mora: Enabling Generalist Video Generation via A Multi-Agent Framework](https://arxiv.org/abs/2403.13248), **Zhengqing Yuan**, Ruoxi Chen, Zhaoxu Li, Haolong Jia, Lifang He, Chi Wang, Lichao Sun
 - [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/abs/2402.17177), Yixin Liu❁, Kai Zhang❁, Yuan Li❁, Zhiling Yan❁, Chujie Gao❁, Ruoxi Chen❁, **Zhengqing Yuan**❁, Yue Huang❁, Hanchi Sun❁, Jianfeng Gao, Lifang He, Lichao Sun (❁Equal contributions)
 - [TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones](https://arxiv.org/abs/2312.16862), **Zhengqing Yuan**, Zhaoxu Li, Lichao Sun
 - [ArtGPT-4: Towards Artistic-understanding Large Vision-Language Models with Enhanced Adapter](https://arxiv.org/abs/2305.07490), **Zhengqing Yuan**, Yunhong He, Kun Wang, Yanfang Ye, Lichao Sun
