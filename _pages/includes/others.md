@@ -8,6 +8,7 @@
 # 🧢 Membership
 - *2022.12 - 2023.12*, IEEE Student Member
 - *2024.02 - 2025.02*, IEEE Student Member
+- *2025.02 - 2026.02*, IEEE Member
 
 # 💻 Internships
 - *2023.7 - present*, Visiting student at LAIR Lab, Lehigh University, US. (Supervisor: [Lichao Sun](https://lichao-sun.github.io/))
