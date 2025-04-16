@@ -9,7 +9,7 @@
 
 
 # 📰 Peer Review
-- IEEE IEEE Latin America Transaction Reviwer
+- IEEE Latin America Transaction Reviwer
 - COLM 2025 Reviwer
 - KDD 2025 Reviwer
 - IEEE Transactions on Medical Imaging Reviwer
