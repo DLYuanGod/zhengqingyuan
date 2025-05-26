@@ -12,6 +12,6 @@
 - IEEE/ACM Transactions on Audio, Speech, and Language Processing
 - IEEE Latin America Transaction Reviwer
 - COLM 2025 Reviwer
-- KDD 2025 Reviwer
+- ACM KDD 2025 Reviwer
 - IEEE Transactions on Medical Imaging Reviwer
 - IEEE Access Reviewer
