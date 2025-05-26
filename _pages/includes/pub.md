@@ -14,4 +14,4 @@
 - COLM 2025 Reviwer
 - KDD 2025 Reviwer
 - IEEE Transactions on Medical Imaging Reviwer
-- IEEE Access (JCR Q2) Reviewer
+- IEEE Access Reviewer
