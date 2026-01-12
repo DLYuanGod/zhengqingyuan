@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.01*: 🎉 Our Paper BLURR Accpeted by WWW 2026 Demo Track! Congratulations to my intern!
 - *2026.01*: 🎉 Our 2 Papers Accpeted by EACL 2026
 - *2025.11*: 🎉 Our 2 Papers Accpeted by AAAI 2026
 - *2025.09*: 🎉 Our Paper Accpeted by NeurIPS 2025
