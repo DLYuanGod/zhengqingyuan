@@ -1,6 +1,6 @@
 
 # 📝 Selected Publications (❁Equal contributions)
-- [BLURR: A Boosted Low-Resource Inference for Vision-Language-Action Model](), Xiaoyu Ma❁, Zhengqing Yuan❁, Zheyuan Zhang, Kaiwen Shi, Lichao Sun, Yanfang Ye (WWW 26 Demo Track)
+- [BLURR: A Boosted Low-Resource Inference for Vision-Language-Action Model](), Xiaoyu Ma❁, **Zhengqing Yuan**❁, Zheyuan Zhang, Kaiwen Shi, Lichao Sun, Yanfang Ye (WWW 26 Demo Track)
 - [NG-Router: Graph-Supervised Multi-Agent Collaboration for Nutrition Question Answering](), Kaiwen Shi, Zheyuan Zhang, **Zhengqing Yuan**, Keerthiram Murugesan, Vincent Galassi, Chuxu Zhang, Yanfang Ye (EACL 26 Main Conference)
 - [Interpretable Graph-Language Modeling for Detecting Youth Illicit Drug Use](), Yiyang Li, Zehong Wang, **Zhengqing Yuan**, Zheyuan Zhang, Keerthiram Murugesan, Chuxu Zhang, Yanfang Ye (EACL 26 Findings)
 - [Vision-MoR: Scaling Vision Transformer via Patch-Level Mixture-of-Recursions](https://openreview.net/forum?id=JCRYyGqwkl), Yunhong He❁, **Zhengqing Yuan❁**, Weixiang Sun, Yiyang Li, Yixin Liu, Yanfang Ye, Lichao Sun (AAAI 26)
