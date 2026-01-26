@@ -1,5 +1,6 @@
 
 # 📝 Selected Publications (❁Equal contributions)
+- [Can LLMs Move Beyond Short Exchanges to Realistic Therapy Conversations?](https://openreview.net/forum?id=3Bdl1wL1S3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), **Zhengqing Yuan**, Liang Wu, Jian Xu, Zheyuan Zhang, Kaiwen Shi, Weixiang Sun, Lichao Sun, Yanfang Ye (ICLR 26)
 - [BLURR: A Boosted Low-Resource Inference for Vision-Language-Action Model](), Xiaoyu Ma❁, **Zhengqing Yuan**❁, Zheyuan Zhang, Kaiwen Shi, Lichao Sun, Yanfang Ye (WWW 26 Demo Track)
 - [NG-Router: Graph-Supervised Multi-Agent Collaboration for Nutrition Question Answering](), Kaiwen Shi, Zheyuan Zhang, **Zhengqing Yuan**, Keerthiram Murugesan, Vincent Galassi, Chuxu Zhang, Yanfang Ye (EACL 26 Main Conference)
 - [Interpretable Graph-Language Modeling for Detecting Youth Illicit Drug Use](), Yiyang Li, Zehong Wang, **Zhengqing Yuan**, Zheyuan Zhang, Keerthiram Murugesan, Chuxu Zhang, Yanfang Ye (EACL 26 Findings)
