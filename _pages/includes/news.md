@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.02*: 🚀 Achieved full-precision training of a 120B-parameter model on a single GPU, significantly improving efficiency over existing systems (e.g., DeepSpeed ZeRO-3).
 - *2026.01*: 🎉 Our Paper Accepted by ICLR 2026! Congratulations!
 - *2026.01*: 🎉 Our Paper BLURR Accpeted by WWW 2026 Demo Track! Congratulations to my intern!
 - *2026.01*: 🎉 Our 2 Papers Accpeted by EACL 2026
