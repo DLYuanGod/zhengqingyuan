@@ -1,5 +1,5 @@
-I am a PhD student in the Department of Computer Science and Engineering at the University of Notre Dame. My advisor is Prof. [Yanfang (Fanny) Ye](http://yes-lab.org/). Under Prof. Ye's supervision, I collaborate with my [lab mates](http://yes-lab.org/students.html) and Prof. [Lichao Sun](https://lichao-sun.github.io/).
+I am a Member of Technical Staff at Physion Labs, working on distributed training systems, large-scale foundation models, and efficient AI infrastructure. I received my M.S. in Computer Science and Engineering from the University of Notre Dame.
 
-I am now working on NLP, deep learning (about methods of training models), large language models (LLMs) and multimodal training research. If you are seeking any form of **academic cooperation**, please feel free to email me at [zyuan2@nd.edu](zyuan2@nd.edu).
+My research interests include accelerated computing, distributed and memory-efficient training, large language models, multimodal learning, and scalable AI systems. I am the creator of MegaTrain, a system that enables full-precision training of models with more than 100 billion parameters on a single GPU. I have also contributed to projects including TinyGPT-V and Mora. My open-source projects have received more than 4,000 GitHub stars.
 
-My research interest includes Accelerated Computing, NLP, deep learning (about methods of trainning models), large language models (LLMs) and multimodal training. 
+I am always open to research and open-source collaboration. Please feel free to contact me.
